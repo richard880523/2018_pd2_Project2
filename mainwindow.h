@@ -7,7 +7,7 @@
 #include <QPainter> //draw thick lines
 #include <QTimer> //start(1000),timeout()signals
 #include <QTime> //get current time
-#include <QLCDNumber> //show time
+#include <QLCDNumber> //show time with LCD
 #include <QElapsedTimer>
 
 namespace Ui {
